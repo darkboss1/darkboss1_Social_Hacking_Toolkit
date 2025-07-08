@@ -304,7 +304,7 @@ you can verify that the program works by testing it on **your profile**, open th
 <h3><p align="center">Issues and Suggestions</p></h3>
 
 <p align="center">
-  <img src="images/issues.gif" alt=""/>
+  <img src="images/" alt=""/>
 </p>
 
 If you have encountered an issue with darkboss1_Social_Hacking_Toolkit or would like to suggest an improvement, please report it in our.<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
